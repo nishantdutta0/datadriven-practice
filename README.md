@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/nishant_dutta), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Return on a Glance](./practice/sql/return-on-a-glance) | SQL | Easy | 2026-10-02 |
 | [Mobile Event Counts](./practice/sql/mobile-event-counts) | SQL | Easy | 2026-10-02 |
 
 <!-- datadriven:index:end -->
