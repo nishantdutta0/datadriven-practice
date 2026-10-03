@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/nishant_dutta), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Two Sides of the Ledger](./practice/sql/two-sides-of-the-ledger) | SQL | Hard | 2026-10-03 |
 | [Top Recent Sellers](./practice/sql/top-recent-sellers) | SQL | Easy | 2026-10-03 |
 | [Off Target](./practice/sql/off-target) | SQL | Medium | 2026-10-02 |
 | [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-10-02 |
