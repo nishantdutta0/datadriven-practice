@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/nishant_dutta), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Long Tail](./practice/sql/the-long-tail) | SQL | Medium | 2026-10-06 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-05 |
 | [Campaign Bookend Engagement](./practice/sql/campaign-bookend-engagement) | SQL | Hard | 2026-10-05 |
 | [Ghosts in the Campaign](./practice/sql/ghosts-in-the-campaign) | SQL | Easy | 2026-10-04 |
