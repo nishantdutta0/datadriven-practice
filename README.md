@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/nishant_dutta), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Service Budget per Head](./practice/sql/service-budget-per-head) | SQL | Medium | 2026-10-07 |
 | [The Long Tail](./practice/sql/the-long-tail) | SQL | Medium | 2026-10-06 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-05 |
 | [Campaign Bookend Engagement](./practice/sql/campaign-bookend-engagement) | SQL | Hard | 2026-10-05 |
