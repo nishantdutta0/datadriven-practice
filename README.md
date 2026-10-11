@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/nishant_dutta), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-10-11 |
 | [Back Again](./practice/sql/back-again) | SQL | Medium | 2026-10-11 |
 | [Average Accuracy by Framework](./practice/sql/average-accuracy-by-framework) | SQL | Medium | 2026-10-10 |
 | [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-10-09 |
