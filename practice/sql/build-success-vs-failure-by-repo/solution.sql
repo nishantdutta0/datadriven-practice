@@ -1,21 +1,15 @@
 SELECT
   repo_name,
-  COALESCE(
-    SUM(
-      CASE
-        WHEN status = 'success' THEN 1
-      END
-    ),
-    0
+  SUM(
+    CASE
+      WHEN status = 'success' THEN 1 ELSE 0
+    END
   ) AS success_count,
-  COALESCE(
-    SUM(
-      CASE
-        WHEN status = 'failure' THEN 1
-      END
-    ),
-    0
+  SUM(
+    CASE
+      WHEN status = 'failure' THEN 1 ELSE 0
+    END
   ) AS failure_count,
   AVG(dur_secs) AS avg_duration
 FROM ci_builds
-GROUP BY repo_name
+GROUP BY repo_name;
