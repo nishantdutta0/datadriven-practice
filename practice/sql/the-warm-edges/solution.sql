@@ -6,7 +6,6 @@ SELECT
   SUM(bytes) OVER(PARTITION BY edge_loc) AS total_bytes
 FROM cdn_logs
 WHERE req_path LIKE '%api%'
-ORDER BY 3
 )
 
 SELECT DISTINCT
@@ -15,5 +14,4 @@ SELECT DISTINCT
   total_bytes
 FROM cache_info 
 WHERE cache_hit = 1
-ORDER BY total_bytes;
--- SELECT * FROM cdn_logs WHERE edge_loc = 'LHR'
+ORDER BY 3;
