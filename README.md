@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/nishant_dutta), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-10-21 |
 | [Top Percentile API Tokens](./practice/sql/top-percentile-api-tokens) | SQL | Hard | 2026-10-20 |
 | [Where You Stand](./practice/sql/where-you-stand) | SQL | Easy | 2026-10-19 |
 | [The Warm Edges](./practice/sql/the-warm-edges) | SQL | Medium | 2026-10-18 |
