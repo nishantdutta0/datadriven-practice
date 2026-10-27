@@ -8,7 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/nishant_dutta), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-10-26 |
+| [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Easy | 2026-10-26 |
 | [Users With Admin Tokens](./practice/sql/users-with-admin-tokens) | SQL | Medium | 2026-10-25 |
 | [Deployment Duration by Status](./practice/sql/deployment-duration-by-status) | SQL | Easy | 2026-10-23 |
 | [Minimum Parallel Workers](./practice/sql/minimum-parallel-workers) | SQL | Hard | 2026-10-22 |
