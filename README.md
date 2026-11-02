@@ -39,7 +39,7 @@ Scored work from [DataDriven](https://datadriven.io/u/nishant_dutta), committed 
 | [Top Recent Sellers](./practice/sql/top-recent-sellers) | SQL | Easy | 2026-10-03 |
 | [Off Target](./practice/sql/off-target) | SQL | Medium | 2026-10-02 |
 | [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-10-02 |
-| [Selling Where Nobody Lives](./practice/sql/selling-where-nobody-lives) | SQL | Easy | 2026-10-02 |
+| [Selling Where Nobody Lives](./practice/sql/selling-where-nobody-lives) | SQL | Medium | 2026-10-02 |
 | [Return on a Glance](./practice/sql/return-on-a-glance) | SQL | Easy | 2026-10-02 |
 | [Mobile Event Counts](./practice/sql/mobile-event-counts) | SQL | Easy | 2026-10-02 |
 
